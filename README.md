@@ -46,7 +46,8 @@ Quelques idées d'amélioration : <br>
 <br>
 ## License
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. <br>
+Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 N'hésitez pas à me contacter pour toute question ou contribution. <br>
 Bonne exploration ! 🏰
